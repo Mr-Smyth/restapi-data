@@ -1,0 +1,24 @@
+{
+  "name": "restapi-data",
+  "version": "1.0.0",
+  "description": "Rest API Data",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Smyth/restapi-data.git"
+  },
+  "author": "Eamonn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Smyth/restapi-data/issues"
+  },
+  "homepage": "https://github.com/Mr-Smyth/restapi-data#readme"
+}
